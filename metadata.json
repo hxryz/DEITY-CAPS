@@ -1,0 +1,6 @@
+{
+  "name": "DEITY CAP WORKS",
+  "description": "An ultra-premium cinematic configuration and quotation experience for custom cap manufacturing orders at DEITY CAP WORKS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
